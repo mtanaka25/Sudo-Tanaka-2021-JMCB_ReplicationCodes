@@ -5,7 +5,7 @@ This is the replication codes for Sudo and Tanaka (2021), "Quantifying Stock and
 ## A) Requirements
  - MATLAB
  - DYNARE
- - 00_tool (contained in this zip file)
+ - 00_tool (contained in this repository)
 
   * Please add `00_tools` to your MATLAB search path, in advance of running the replication codes.
 
